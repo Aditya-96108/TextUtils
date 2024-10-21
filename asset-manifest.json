@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Aditya-96108/TextUtils/static/css/main.3a7f72e6.css",
+    "main.js": "/Aditya-96108/TextUtils/static/js/main.dde27994.js",
+    "static/js/453.02b6ed6f.chunk.js": "/Aditya-96108/TextUtils/static/js/453.02b6ed6f.chunk.js",
+    "index.html": "/Aditya-96108/TextUtils/index.html",
+    "main.3a7f72e6.css.map": "/Aditya-96108/TextUtils/static/css/main.3a7f72e6.css.map",
+    "main.dde27994.js.map": "/Aditya-96108/TextUtils/static/js/main.dde27994.js.map",
+    "453.02b6ed6f.chunk.js.map": "/Aditya-96108/TextUtils/static/js/453.02b6ed6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a7f72e6.css",
+    "static/js/main.dde27994.js"
+  ]
+}
